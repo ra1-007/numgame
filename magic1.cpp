@@ -4,7 +4,7 @@ int main()
 {
 	char a[10];
 	printf("********PRESS ENTER AFTER EACH COMMAND********\n");
-	printf("Think of a number.\n");
+	printf("Think of a positive number.\n");
 	fgets(a, 100, stdin);
 	printf("Multiply it by 3.\n");
 	fgets(a, 100, stdin);
